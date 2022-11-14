@@ -9,7 +9,3 @@ title = "iSTRUM: **i**nve**S**tigating the **T**ransient **U**pper **M**antle"
 +++
 
 words go here. 
-
-### Project overview
-
-![](/images/fig_2_observations.png)
