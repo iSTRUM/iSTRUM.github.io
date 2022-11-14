@@ -10,4 +10,5 @@ tiled = true
 collapsible = false
 count = 2
 read_more = true
+images = true
 +++

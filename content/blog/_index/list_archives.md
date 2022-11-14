@@ -10,4 +10,5 @@ collapsible = false
 count = 1000
 read_more = true
 display_summary = true
+images = false
 +++
