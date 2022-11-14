@@ -23,7 +23,7 @@ Blog posts are written in markdown (see [here](https://itsfoss.com/markdown-guid
  
 ### submission via issue 
 
-Start a [new issue](https://github.com/TRANSIENTproject/TRANSIENTproject.github.io/issues/new) and title it `New Post: <your title>`. Write your post directly in the issue! You can upload images and write in standard markdown. When ready, click `Submit New Issue` and a maintainer will help to get port the post over to a pull request.
+Start a [new issue](https://github.com/iSTRUM/iSTRUM.github.io/issues/new) and title it `New Post: <your title>`. Write your post directly in the issue! You can upload images and write in standard markdown. When ready, click `Submit New Issue` and a maintainer will help to get port the post over to a pull request.
 
 [top](#overview)
 
