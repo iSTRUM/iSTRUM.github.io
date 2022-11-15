@@ -7,7 +7,7 @@ background = "light" # can influence the text color
 particles = true
 
 title = "iSTRUM"
-subtitle = "**i**nve**S**tigating the **T**ransient **U**pper **M**antle"
+subtitle = "**i**nve**S**tigating the **T**ransient **R**heology of the **U**pper **M**antle"
 
 [header]
   image = "fig_2_observations.jpg"

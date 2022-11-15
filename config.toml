@@ -25,7 +25,7 @@ lastmod = ["lastmod", ":git", "date"]
 
 [params]
   name = "iSTRUM"
-  description = "InveStigating the Transient Upper Mantle"
+  description = "InveStigating the Transient Rheology of the Upper Mantle"
 
   [params.style]
     #background = "secondary"
