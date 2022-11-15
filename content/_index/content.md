@@ -5,4 +5,4 @@ date = "2017-09-10"
 weight = 1100
 +++
 
-One sentence overview
+To learn more about iSTRUM, read more about the project [here](/about) or check out the [blog](/blog).
