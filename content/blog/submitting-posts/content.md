@@ -15,6 +15,7 @@ This post includes instructions for:
 * [Formatting your markdown](#markdown-header)
 * [Including images](#including-images)
 * [Including math](#including-math)
+* [Local rendering](#local-rendering)
 
 
 ## Creating a new post 
@@ -147,7 +148,7 @@ For inline equations, use `\\(` and `\\)`. So `\\(x=\phi\\)` will render as \\(x
 
 [top](#overview)
 
-## Testing the web-rendering locally 
+## Local rendering
 
 If you want to see what your new post will look like when it's fully rendered, you'll need to set up a development environment for the blog.
 
