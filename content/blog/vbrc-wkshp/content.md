@@ -13,22 +13,23 @@ Need a hand getting started using the [Very Broadband Rheology Calculator (VBRc)
 
 Join us for a two-part mini virtual workshop on the following dates: 
 
-July 31: 2pm-5pm US Central Time
-Aug 3: 2pm-5pm US Central Time
+* July 31: 2pm-5pm US Central Time
+* Aug 3: 2pm-5pm US Central Time
 
 The virtual workshop will take place over Zoom and coordinated via the VBRc slack (join the VBRc slack from 
 [this page](https://vbr-calc.github.io/vbr/contrib/contributing/)!).
 
 ## Workshop outline
 
-Day 1 : 
+Day 1 (July 31: 2pm-5pm US Central Time): 
 
 * Presentation: Introduction to the VBRc (15 min)
 * Tutorial: Basic Usage (30 min)
 * Tutorial: Predicting material properties from forward models (30 minutes) 
 * Tutorial: Interpreting seismic observations (1.5 hr)
 
-Day 2
+Day 2 (Aug 3: 2pm-5pm US Central Time):
+
 * Tutorial: Fitting laboratory experiments (1.5 hr)
 * Co-Working: Get started on using the VBRc with your own data! (1.5 hr) 
 
