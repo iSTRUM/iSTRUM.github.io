@@ -37,3 +37,9 @@ Day 2 (Aug 3: 2pm-5pm US Central Time):
 
 Please come to the workshop with a working installation of the VBRc (instructions
 are available at https://vbr-calc.github.io/vbr/gettingstarted/installation/).
+
+## Registration
+
+No need to officially register: just join the VBRc slack from 
+[this page](https://vbr-calc.github.io/vbr/contrib/contributing/) and join the 
+`#mini-workshop-2023` channel.
