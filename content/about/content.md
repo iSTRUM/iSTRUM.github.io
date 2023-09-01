@@ -17,7 +17,7 @@ There is emerging recognition that the variables describing Earth’s mechanical
 iSTRUM brings together researchers from across geoscience disciplines through support of the [NSF Frontier Research in Earth Sciences](https://beta.nsf.gov/funding/opportunities/frontier-research-earth-sciences-fres) program. The official project, *"Collaborative Research: Towards a new framework for interpreting mantle deformation: integrating theory, experiments, and observations spanning seismic to convective timescales"* is a collaborative effort lead by:
 
 * [Colleen Dalton](https://deeps.brown.edu/people/colleen-dalton), Brown University (**lead institution**, NSF Award Number 2218542)
-* [Harriet Lau](https://harrietlau.github.io/), University of California-Berkeley (NSF Award Number 2218568)
+* [Harriet Lau](https://harrietlau.github.io/), Brown University (NSF Award Number 2218568)
 * [Kristel Chanard](http://kristelchanard.weebly.com/), Institut de Physique du Globe de Paris
 * [Lars Hansen](https://cse.umn.edu/esci/lars-hansen), University of Minnesota-Twin Cities (NSF Award Number 2218305)
 * [Chris Havlin](https://ischool.illinois.edu/people/chris-havlin) & [Matt Turk](https://matthewturk.github.io/), University of Illinois at Urbana-Champaign (NSF Award Number 2217616)
