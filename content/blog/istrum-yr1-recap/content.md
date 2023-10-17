@@ -48,4 +48,4 @@ thermodynamic state of the upper mantle and the contribution of transient deform
 to those observations. The methodology developed in the pilot study will then be 
 applied across the chosen study regions. 
 
-If you're interested in learning more, come find us at AGU!
+If you're interested in learning more, [come find us at AGU](https://istrum.github.io/blog/agu-2023/)!
