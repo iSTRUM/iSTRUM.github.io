@@ -67,7 +67,7 @@ lastmod = ["lastmod", ":git", "date"]
 # it does not load properly, consider turning this to true.
 # See https://github.com/okkur/syna/issues/859 
 [minify]
-disableJS = false
+disableJS = true
 
 # main/prepend/postpend menus are displayed in nav fragment.
 # Keep an eye out for updates. These will be moved out to make navbar more

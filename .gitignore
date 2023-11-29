@@ -1,4 +1,6 @@
 *.swp
 *.idea
+# hugo build files
+public
+resources
 .hugo_build.lock
-resources/
