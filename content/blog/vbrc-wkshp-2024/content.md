@@ -1,12 +1,12 @@
 +++
 fragment = "content"
 weight = 100
-summary = "Save the date: VBRc Virtual Workshop May 20-24, 2024."
+summary = "Save the date: VBRc Virtual Workshop May 20-23, 2024."
 date = "2023-12-07"
 display_date = true
 +++
 
-##  VBRc Virtual Workshop, May 20-24, 2024!
+##  VBRc Virtual Workshop, May 20-23, 2024!
 
 The iSTRUM Project is organizing a Virtual Workshop centered around the [Very Broadband Rheology Calculator (VBRc)](https://vbr-calc.github.io/vbr/) May 20-24, 2024. Each day will contain 3-4 hours of tutorials, co-working sessions and talks focused on using the VBRc to constrain the role of transient rheology in the deformation of the upper mantle across timescales. Additionally, all attendees will get the chance to present in some way if they wish (likely as short lightning talks).
 
