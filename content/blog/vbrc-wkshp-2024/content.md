@@ -1,14 +1,16 @@
 +++
 fragment = "content"
 weight = 100
-summary = "Save the date: VBRc Virtual Workshop May 20-23, 2024."
+summary = "VBRc Virtual Workshop 2024."
 date = "2023-12-07"
 display_date = true
 +++
 
-##  VBRc Virtual Workshop, May 20-23, 2024!
+##  VBRc Virtual Workshop, 2024!
 
-The iSTRUM Project is organizing a Virtual Workshop centered around the [Very Broadband Rheology Calculator (VBRc)](https://vbr-calc.github.io/vbr/) May 20-23, 2024. Each day will contain 3-4 hours of tutorials, co-working sessions and talks focused on using the VBRc to constrain the role of transient rheology in the deformation of the upper mantle across timescales. Additionally, all attendees will get the chance to present in some way if they wish (likely as short lightning talks).
+**ANNOUNCMENT: the VBRc workshop will now be happening in the Summer of 2024, dates to be re-announced very soon!**
+
+The iSTRUM Project is organizing a Virtual Workshop centered around the [Very Broadband Rheology Calculator (VBRc)](https://vbr-calc.github.io/vbr/) for the summer of 2024. Each day will contain 3-4 hours of tutorials, co-working sessions and talks focused on using the VBRc to constrain the role of transient rheology in the deformation of the upper mantle across timescales. Additionally, all attendees will get the chance to present in some way if they wish (likely as short lightning talks).
 
 The virtual workshop will take place over Zoom, an official registration will be advertised in early 2024 on various email lists and the VBRc slack (join the VBRc slack from
 [this page](https://vbr-calc.github.io/vbr/contrib/contributing/)!).
@@ -21,22 +23,22 @@ reach out in the `#2024-virtual-workshop` channel of the VBRc. Note that in addi
 to the main meeting days, there will be additional help sessions to assist with
 installation issues.
 
-### Day 1 (Mo, 2024-05-20) - Introduction to the VBRc
+### Day 1 - Introduction to the VBRc
 * Welcome and VBRc introduction
 * Tutorial: Simple usage of the VBRc, building deformation mechanism maps
 * Tutorial: Predicting properties for the oceanic upper mantle
 
-### Day 2 (Tu, 2024-05-21) - Interpreting Seismic Observations
+### Day 2 - Interpreting Seismic Observations
 * Presentation: Guest speaker (TBD)
 * Tutorial: Interpreting (seismic) observations
 * Breakout sessions
 
-### Day 3 (We, 2024-05-22) - Additional applications of the VBRc (GIA, joint inversions, more...)
+### Day 3 - Additional applications of the VBRc (GIA, joint inversions, more...)
 * Presentation: Guest speaker (TBD)
 * Tutorial: TBD
 * Lightning Talks & Breakout Sessions
 
-### Day 4 (Th, 2024-05-23) - Open Source Software Skills and More
+### Day 4 - Open Source Software Skills and More
 * Presentation: Overview of Open Source Software development
 * Tutorial: How to contribute to the VBRc
 * Presentation & Tutorial: Introducing [pyVBRc](https://github.com/vbr-calc/pyVBRc)
