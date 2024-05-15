@@ -2,7 +2,7 @@
 baseurl = "https://iSTRUM.github.io"
 languageCode = "en-us"
 title = "iSTRUM"
-theme = "syna"
+theme = "blowfish"
 enableGitInfo = true
 version = "0.17.3"
 
@@ -86,3 +86,9 @@ disableJS = true
   url = "/blog"
   name = "Blog"
   weight = 30
+
+[module]
+[module.hugoVersion]
+extended = true
+min = "0.87.0"
+max = "0.125.7"
