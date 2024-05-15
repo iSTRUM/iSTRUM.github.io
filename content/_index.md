@@ -5,4 +5,6 @@ date = "2017-09-07"
 description = "iSTRUM"
 +++
 
+**i**nve**S**tigating the **T**ransient **R**heology of the **U**pper **M**antle
+
 To learn more about iSTRUM, read more about the project [here](/about) or check out the [blog](/blog).
