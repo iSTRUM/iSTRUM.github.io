@@ -16,7 +16,7 @@ This post includes instructions for:
 
 ## Creating a new post 
 
-Blog posts are written in plain text markdown language (see [here](https://itsfoss.com/markdown-guide/) for a nice introduction). You can write and submit posts in the following ways:
+Blog posts are written in plain text markdown language (see [here](https://www.markdownguide.org/getting-started/) for a nice introduction). You can write and submit posts in the following ways:
 
 * write a new post in a github issue
 * write a new post in a github pull request 
@@ -73,7 +73,7 @@ And that's it! You're now ready to write your post in the rest of the `index.md`
 
 ### markdown body for posts
 
-The rest of the `index.md` file is where your post goes! If you're new to markdown, check out  [this guide](https://itsfoss.com/markdown-guide/) for a nice introduction or check out the source code for this post to see some examples for headers, links and more.
+The rest of the `index.md` file is where your post goes! If you're new to markdown, check out  [this guide](https://www.markdownguide.org/getting-started/) for a nice introduction or check out the source code for this post to see some examples for headers, links and more.
 
 [top](#overview)
 
