@@ -11,7 +11,7 @@ This post includes instructions for:
 * [Writing your markdown post](#writing-your-markdown-post)
 * [Including images](#including-images)
 * [Local rendering](#local-rendering)
-* [Including math (currently inoperable)](#including-math)
+* [Including math](#including-math)
 
 
 ## Creating a new post 
@@ -135,8 +135,6 @@ after which the website should be avaialbe to view at [http://localhost:1313](ht
 [top](#overview)
 
 ## Including math
-
-**NOTE THAT THIS SECTION IS OUT OF DATE: math rendering is currently not active, but this info here is included for the day that it is re-enabled**
 
 The blog allows mathjax expressions (very similar to latex). Note that if you're writing your post as a github issue, the math will not render in preview mode.
 
