@@ -1,6 +1,7 @@
 +++
 title = "iSTRUM 2023 Fall Meeting"
 date = "2023-10-01"
+summary = "In early September, the iSTRUM team convened its first in-person team meeting to cap off a year full of discussion and collaboration on linking observational geophysics, laboratory experiments and forward modeling to better constrain the role of transient rheology in the deformation of the upper mantle. Click to read more!"
 +++
 
 

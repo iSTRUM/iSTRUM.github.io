@@ -6,10 +6,11 @@ theme = "blowfish"
 enableGitInfo = true
 version = "0.17.3"
 
+
 # Google Analytics tracking
 googleAnalytics = ""
 
-disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
+disableKinds = ["RSS", "taxonomy"]
 
 [outputs]
   home = ["HTML", "JSON"]
@@ -27,16 +28,6 @@ lastmod = ["lastmod", ":git", "date"]
   name = "iSTRUM"
   description = "InveStigating the Transient Rheology of the Upper Mantle"
 
-  [params.style]
-    #background = "secondary"
-
-  # Theme customizations
-  # Assets relative to 'static/'
-  [params.custom]
-    favicon = "favicon.ico"
-    favicon_ico_sizes = "16x16 32x32"
-    favicon_png = "favicon.png"
-    favicon_svg = "favicon.svg"
 
   # Piwik tracking
   [params.analytics.piwik]
@@ -51,23 +42,6 @@ lastmod = ["lastmod", ":git", "date"]
   [params.fontawesome]
     disabled = false
     pro = false
-
-  [params.colors]
-    primary = "#00838F"
-    secondary = "#868e96"
-    success = "#008f54"
-    info = "#00c9dc"
-    warning = "#fdf314"
-    danger = "#dc1200"
-    light = "#f8f9fa"
-    dark = "#343a40"
-
-# The following flag disables JS minification
-# If you encounter issues with the dropdown menu and the JavaScript controlling
-# it does not load properly, consider turning this to true.
-# See https://github.com/okkur/syna/issues/859 
-[minify]
-disableJS = true
 
 # main/prepend/postpend menus are displayed in nav fragment.
 # Keep an eye out for updates. These will be moved out to make navbar more
