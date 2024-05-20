@@ -1,0 +1,23 @@
+
+# blowfish configs
+colorScheme = "fire"
+defaultAppearance = "dark"
+autoSwitchAppearance = false
+
+#[homepage]
+#  layout = 'hero'
+#  homepageImage = "fig_2_observations.png"
+#  layoutBackgroundBlur = true
+
+[list]
+  showSummary = true
+
+[article]
+  showDate = true
+  showViews = false
+  showLikes = false
+  showDateOnlyInArticle = false
+  showDateUpdated = false
+  showAuthor = true
+  showTableOfContents = true
+

@@ -1,6 +1,8 @@
 +++
 title = "Instructions for blog submissions"
 date = "2022-11-14"
+summary = "This post includes instructions for submitting blog posts."
+authors = ["chrishavlin"]
 +++
 
 ## Overview 

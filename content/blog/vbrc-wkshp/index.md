@@ -1,6 +1,7 @@
 +++
 title = "VBRc tutorial sessions"
 date = "2023-07-26"
+summary = "VBRc mini workshop announcement."
 +++
 
 ## VBRc mini workshop! 
