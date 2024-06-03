@@ -1,7 +1,7 @@
 +++
-title = "VBRc Workshop Summer 2024"
+title = "VBRc Virtual Workshop, July 15-18 2024"
 date = "2023-12-07"
-summary = "The VBRc Virtual Workshop 2024 is coming up!"
+summary = "The VBRc Virtual Workshop 2024 is scheduled for July 15-18!"
 authors = ["chrishavlin"]
 +++
 
