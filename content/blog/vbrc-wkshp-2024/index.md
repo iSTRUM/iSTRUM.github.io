@@ -21,11 +21,11 @@ The iSTRUM Project is organizing a Virtual Workshop centered around the [Very Br
 A detailed schedule is available at [this link](https://docs.google.com/document/d/1s9IZf7_B8hd9vwrgVe7HB32SytMeXd55HOiSatlX3A0/edit?usp=sharing).
 
 If there's a particular topic that you're interested in but is not covered in the schdule,
-reach out in the `#2024-virtual-workshop` channel of the VBRc (you can join the VBRc slack channel at [this page](https://vbr-calc.github.io/vbr/contrib/contributing/)).
+reach out in the `#2024-virtual-workshop` channel of the VBRc slack (you can join the VBRc slack at [this page](https://vbr-calc.github.io/vbr/contrib/contributing/)).
 
 ### Workshop Requirements
 
-The VBRc is a MATLAB (and GNU Octave!) application, so you'll get the most out of the workshop if you are comfortable working with MATLAB functions and structures.
+The VBRc is a MATLAB and GNU Octave application, so you'll get the most out of the workshop if you are comfortable working with MATLAB functions and structures.
 
 For Days 1-3, you'll need a working installation of the VBRc (instructions
 are available at https://vbr-calc.github.io/vbr/gettingstarted/installation/). We'll also use `git` a bit so you may want to install it, but you'll also be able to manually download files as needed.
