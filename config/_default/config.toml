@@ -6,6 +6,7 @@ theme = "blowfish"
 enableGitInfo = true
 version = "0.17.3"
 
+ignoreErrors = ["error-disable-taxonomy"]
 
 # Google Analytics tracking
 googleAnalytics = ""

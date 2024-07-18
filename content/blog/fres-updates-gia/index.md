@@ -3,6 +3,7 @@ title = "Fingerprinting ice sheet meltwater sources with transient rheology"
 date = "2024-07-18"
 summary = "Updates from Harriet Lau and Allie Coonin on using transient rheology to unravel the sources of ice sheet meltwater"
 authors = ["harrietlau"]
+showTableOfContents = false
 +++
 
 ## Fingerprinting ice sheet meltwater sources with transient rheology
