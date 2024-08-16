@@ -1,7 +1,7 @@
 +++
 title = "VBRc Virtual Workshop Recap"
 date = "2024-08-15"
-summary = "The VBRc Virtual Workshop 2024 is a wrap,check here for summary and links to recordings!"
+summary = "The VBRc Virtual Workshop 2024 is a wrap, check here for a summary and links to recordings and additional materials."
 authors = ["chrishavlin"]
 +++
 
