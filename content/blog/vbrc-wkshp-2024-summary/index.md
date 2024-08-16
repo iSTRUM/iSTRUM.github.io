@@ -1,14 +1,16 @@
 +++
 title = "VBRc Virtual Workshop Recap"
-date = "2023-12-07"
-summary = "The VBRc Virtual Workshop 2024 is a wrap! Check here for summary and links to recordings!"
+date = "2024-08-15"
+summary = "The VBRc Virtual Workshop 2024 is a wrap,check here for summary and links to recordings!"
 authors = ["chrishavlin"]
 +++
 
 
 ##  VBRc Virtual Workshop Recap
 
+
 The [Very Broadband Rheology Calculator (VBRc)](https://vbr-calc.github.io/vbr/) Virtual Workshop was held July 15-18 with support from the iSTRUM Project. 30-35 attendees joined for 4 days of tutorials and presentations focused around the VBRc -- including talks from people who have used the VBRc in their own research as well as tutorials that dive into using the VBRc for interpreting the thermodynamic state of the upper mantle and for understanding the mechanical response of the earth over very large time and frequency ranges. Thanks to all who attended and contributed to a great workshop!
+
 
 ### Workshop Recordings
 
