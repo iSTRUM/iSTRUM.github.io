@@ -1,7 +1,7 @@
 +++
 title = "Towards imaging Rayleigh wave attenuation in Alaska"
 date = "2025-07-07"
-summary = "Updates from Abby Case (Brown University) and Colleen Dalton (Brown University) on measuring seismic attenuation beneath Alaska"
+summary = "Updates from Abby Case and Colleen Dalton on measuring seismic attenuation beneath Alaska"
 authors = ["abbycase", "colleendalton"]
 showTableOfContents = false
 +++
