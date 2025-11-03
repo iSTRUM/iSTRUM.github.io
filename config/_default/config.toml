@@ -62,6 +62,11 @@ lastmod = ["lastmod", ":git", "date"]
   name = "Blog"
   weight = 30
 
+[[menu.main]]
+  url = "/community-workshop"
+  name = "2026 Community Workshop"
+  weight = 30
+
 [module]
 [module.hugoVersion]
 extended = true
