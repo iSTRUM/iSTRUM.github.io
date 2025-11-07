@@ -1,6 +1,6 @@
 +++
 title = "iSTRUM Community Workshop Announced! "
-date = "2025-11-03"
+date = "2025-11-07"
 summary = "Details for the iSTRUM Community Workshop, June 22nd-26th 2026."
 showTableOfContents = false
 +++
