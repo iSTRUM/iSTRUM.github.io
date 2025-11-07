@@ -1,8 +1,27 @@
 <div class="relative pt-16 pb-32">
     <div aria-hidden="true" class="absolute inset-x-0 top-0 h-48 bg-gradient-to-b from-gray-100"></div>
     <div class="relative">
-        <article class="max-w-full prose dark:prose-invert">
-                <section>{{ .Content | emojify }}</section>
+        <article class="max-w-full prose dark:prose-invert" style="text-align: center;">
+            {{ $homepageImage := "" }}
+            {{ with .Site.Params.defaultBackgroundImage }}
+                {{ if or (strings.HasPrefix . "http:") (strings.HasPrefix . "https:") }}
+                    {{ $homepageImage = resources.GetRemote . }}
+                {{ else }}
+                    {{ $homepageImage = resources.Get . }}
+                {{ end }}
+            {{ end }}
+            {{ with .Site.Params.homepage.homepageImage }}
+                {{ if or (strings.HasPrefix . "http:") (strings.HasPrefix . "https:") }}
+                    {{ $homepageImage = resources.GetRemote . }}
+                {{ else }}
+                    {{ $homepageImage = resources.Get . }}
+                {{ end }}
+            {{ end }}
+            {{ if $homepageImage }}
+            <img style="display: block; margin-left: auto; margin-right: auto; width: 60%;"
+                src="{{ $homepageImage.RelPermalink }}">
+            {{ end }}
+            <section>{{ .Content | emojify }}</section>
         </article>
     </div>
 </div>
