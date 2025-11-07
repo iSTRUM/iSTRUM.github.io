@@ -4,10 +4,10 @@ colorScheme = "fire"
 defaultAppearance = "dark"
 autoSwitchAppearance = false
 
-#[homepage]
-#  layout = 'hero'
-#  homepageImage = "fig_2_observations.png"
-#  layoutBackgroundBlur = true
+[homepage]
+ layout = 'card'
+ homepageImage = "logos/istrum-logo-mod.png"
+ layoutBackgroundBlur = true
 
 [list]
   showSummary = true
