@@ -6,14 +6,6 @@ showTableOfContents = false
 
 We are excited to host the upcoming iSTRUM (inveStigating Transient Rheology of the Upper Mantle) Community Workshop to be held June 22-26, 2026 at UC Santa Barbara, hosted by the Kavli Institute of Theoretical Physics (KITP). The goal of the workshop is to bring together researchers interested in advancing our understanding of the broad spectrum of upper mantle rheology, covering timescales ranging from seismic waves (<1 s) to Glacial Isostatic Adjustment (~10^12 s) and mantle convection.
 
-If you would like to attend the workshop, please fill in the application form [here](https://forms.gle/aWszJXbubmg31Mzc9), by Feb 28 at 11:59 PT. In order to create an interactive experience, we are asking attendees to present a poster during the workshop. The application asks for a title and brief abstract (max 200 words) of your research presentation.
-
-Please, forward this announcement to colleagues and students who might be interested in joining. We will review applications, and you will hear from us by mid-March. Although we hope to be able to accept all applications, our numbers are capped at 80 attendees, and we are encouraged by significant interest in this workshop. Thus, we cannot guarantee all applications will be accepted. If necessary, we will prioritise convening a representative array of disciplines, career stages, and institutional affiliations.
-
-For more information about the workshop (events, guest speakers, etc.), see [below](#about-the-istrum-investigating-transient-rheology-of-the-upper-mantle-community-workshop). Do not hesitate to reach out to any of the [conveners](#istrum-science-team-and-meeting-conveners) if you have questions.
-
-We look forward to seeing you in sunny Santa Barbara for a stimulating and collaborative week!
-
 ## About the iSTRUM (inveStigating Transient Rheology of the Upper Mantle) Community Workshop
 
 This 5-day, NSF-funded event will bring together ~80 researchers from the fields of Rock Physics, Seismology, Geodesy, and Geodynamics with the goal to advance our understanding of the broad spectrum of upper mantle rheology, covering timescales ranging from seismic waves (~1 s) to Glacial Isostatic Adjustment (~10^12 s). The workshop will foster interdisciplinary collaborations among a diverse array of researchers motivated by the goal of integrating seismic, geodetic, and laboratory observations, within a self-consistent framework that links geodynamics to microphysics.
@@ -34,7 +26,3 @@ Please, forward this announcement to colleagues and students who might be intere
 ## iSTRUM science team and meeting conveners
 
 Kristel Chanard, Colleen Dalton, Zach Eilon, Lars Hansen, Chris Havlin, Ben Holtzman, and Harriet Lau.
-
-## Application
-
-If you would like to attend the workshop, please fill in the application form [here](https://forms.gle/aWszJXbubmg31Mzc9), by Feb 28 at 11:59 PT.
