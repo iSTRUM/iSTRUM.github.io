@@ -26,3 +26,7 @@ Please, forward this announcement to colleagues and students who might be intere
 ## iSTRUM science team and meeting conveners
 
 Kristel Chanard, Colleen Dalton, Zach Eilon, Lars Hansen, Chris Havlin, Ben Holtzman, and Harriet Lau.
+
+## Workshops Logistics and FAQ
+
+Coming to the workshop? Check out the [logistics and FAQ pages](/workshop-logistics)
