@@ -37,6 +37,8 @@ Air travel options:
 
 **Recommended**: If available, fly into SBA for the shortest transit. If flying into LAX, allow a large time buffer for LA traffic (often heavy, though not terrible on weekends).
 
+**Car pooling from LAX**: Car pools can be arranged, read your iSTRUM "Welcome" email for more information.
+
 **Ground options from airports**: rental car, rideshare (Uber/Lyft), airport shuttles, or private car services. SBA has limited taxis; rideshare is generally reliable.
 
 ### Ground transportation & parking
