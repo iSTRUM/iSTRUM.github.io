@@ -13,6 +13,23 @@ showReadingTime = false
 
 **Housing**: San Joaquin Villages, 650 Storke Rd, Goleta, CA 93117
 
+## UCSB accommodation information including check-in and parking
+
+The [San Joaquin Village Apartments](https://www.map.ucsb.edu/?id=1982#!ct/60251,60252,89899,90724,98591,93878,93879,96994,97031?m/762224?s/San%20Joaquin) are located on the corner of Storke and El Colegio Roads at:  
+650 Storke Road, Goleta, CA 93117   
+
+We will be staying in [Ramona Court](https://www.housing.ucsb.edu/housing-options/options-filter/san-joaquin-villages/sjv-emergency-map) (top right corner of the property).
+
+Attendees will check in at the 24 Hour Front Desk located at the same property in the [Santa Catalina South Tower](https://www.map.ucsb.edu/?id=1982#!ct/60251,60252,89899,90724,98591,93878,93879,96994,97031?m/619079?s/santa%20catalina%20south) at:
+
+6850 El Colegio Road, Goleta, CA 93117
+
+Attendees can park temporarily (with a valid parking permit) in a green timezone spot in Lot 59 to check in and get room keys, and then move your car to park overnight/long term to nearby [Lot 60](https://www.map.ucsb.edu/?id=1982#!ct/60251,60252,89899,90724,98591,93878,93879,96994,97031?m/620959?s/lot%2060).
+
+A parking e-permit for Lot 60 can be purchased in advance through the [UCSB Parking ePermit Portal](https://tps-ucsb.t2hosted.com/cmn/auth_ext.aspx) (recommended) or upon arrival from the permit dispenser in the lot. The parking permit cost is $8 per day. (Attendees are responsible for their own parking fees, they are not included.)  
+  
+Here is a link to what the apartments look like and the amenities included:  
+[https://conferences.ucsb.edu/summer-conferences/planner-information/lodging/san-joaquin-villages](https://conferences.ucsb.edu/summer-conferences/planner-information/lodging/san-joaquin-villages)
 
 ## Travel-related
 
