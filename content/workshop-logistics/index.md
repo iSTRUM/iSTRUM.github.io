@@ -13,23 +13,47 @@ showReadingTime = false
 
 **Housing**: San Joaquin Villages, 650 Storke Rd, Goleta, CA 93117
 
-## UCSB accommodation information including check-in and parking
+## Accommodation and conference shuttles
 
-The [San Joaquin Village Apartments](https://www.map.ucsb.edu/?id=1982#!ct/60251,60252,89899,90724,98591,93878,93879,96994,97031?m/762224?s/San%20Joaquin) are located on the corner of Storke and El Colegio Roads at:  
+![Housing, dining hall and shuttles](/images/blog/workshop-faq/iSTRUM_housingbus.png)
+
+### UCSB accomodation check-in
+
+The [San Joaquin Village Apartments](https://www.map.ucsb.edu/?id=1982#!ct/60251,60252,89899,90724,98591,93878,93879,96994,97031?m/762224?s/San%20Joaquin) are located on the corner of Storke and El Colegio Roads at:
 650 Storke Road, Goleta, CA 93117   
 
 We will be staying in [Ramona Court](https://www.housing.ucsb.edu/housing-options/options-filter/san-joaquin-villages/sjv-emergency-map) (top right corner of the property).
 
-Attendees will check in at the 24 Hour Front Desk located at the same property in the [Santa Catalina South Tower](https://www.map.ucsb.edu/?id=1982#!ct/60251,60252,89899,90724,98591,93878,93879,96994,97031?m/619079?s/santa%20catalina%20south) at:
+**Attendees will check in at the 24 Hour Front Desk located at the same property in the [Santa Catalina South Tower](https://www.map.ucsb.edu/?id=1982#!ct/60251,60252,89899,90724,98591,93878,93879,96994,97031?m/619079?s/santa%20catalina%20south)** at:
 
 6850 El Colegio Road, Goleta, CA 93117
 
+If you are driving, click [here](#parking-on-campus) for info on parking.
+
+### Breakfast
+
+For those staying at the San Joaquin villages, breakfast will be served 7:30-8:30am at the [Portola Dining Commons](https://dining.ucsb.edu/dining-commons/portola-dining-commons).
+
+### Shuttles to and from KITP
+
+**Shuttles from the the San Joaquin Villages shared apartment complex to KITP will depart at 8:15am and 8:35am**. The shuttle pick point is on the road between the Portola Dining Room and Romona Court (see map above). Please make an effort to be on the first shuttle so that we have enough room for everyone to get a ride: it is a 1.8 mile (2.9 km) walk to KITP.
+
+At the end of each day, shuttles will be provided back to San Joaquin.
+
+### Dining & groceries
+
+Weekday breakfasts (for those staying in the San Joaquin villages) and lunches are provided by the workshop. We hope participants will also plan to attend the catered dinners at KITP on Tu/Th, and the beach barbecue (0.4 miles walk from KITP) on Wednesday night. For Sunday/Monday/Friday evenings, participants are at their own leisure.
+
+- Campus and surrounding areas have cafés and restaurants; options increase downtown Santa Barbara. Grocery stores (e.g., Trader Joe’s, Whole Foods) and convenience stores are nearby.
+- If you have dietary restrictions, inform organizers (for conference meals).
+
+### Parking on campus
+
+Driving and parking on UCSB: Campus has paid parking lots and visitor permits. Follow posted signage for visitor parking and avoid faculty/reserved spots.
+
 Attendees can park temporarily (with a valid parking permit) in a green timezone spot in Lot 59 to check in and get room keys, and then move your car to park overnight/long term to nearby [Lot 60](https://www.map.ucsb.edu/?id=1982#!ct/60251,60252,89899,90724,98591,93878,93879,96994,97031?m/620959?s/lot%2060).
 
-A parking e-permit for Lot 60 can be purchased in advance through the [UCSB Parking ePermit Portal](https://tps-ucsb.t2hosted.com/cmn/auth_ext.aspx) (recommended) or upon arrival from the permit dispenser in the lot. The parking permit cost is $8 per day. (Attendees are responsible for their own parking fees, they are not included.)  
-  
-Here is a link to what the apartments look like and the amenities included:  
-[https://conferences.ucsb.edu/summer-conferences/planner-information/lodging/san-joaquin-villages](https://conferences.ucsb.edu/summer-conferences/planner-information/lodging/san-joaquin-villages)
+A parking e-permit for Lot 60 can be purchased in advance through the [UCSB Parking ePermit Portal](https://tps-ucsb.t2hosted.com/cmn/auth_ext.aspx) (recommended) or upon arrival from the permit dispenser in the lot. The parking permit cost is $8 per day. (Attendees are responsible for their own parking fees, they are not included.)
 
 ## Travel-related
 
@@ -58,18 +82,13 @@ Air travel options:
 
 **Ground options from airports**: rental car, rideshare (Uber/Lyft), airport shuttles, or private car services. SBA has limited taxis; rideshare is generally reliable.
 
-### Ground transportation & parking
+### Ground transportation
 - From SBA: taxi or rideshare to KITP or your hotel; some hotels offer shuttle service. Lyft and Uber both are good options. There are also local taxi companies you can look up.
 - From LAX: Santa Barbara Airbus, taxi/rideshare, or rental car. Trains (Amtrak) require transfers and are much slower - avoid (unfortunately).
-- Driving and parking on UCSB: Campus has paid parking lots and visitor permits. Follow posted signage for visitor parking and avoid faculty/reserved spots.
 
 ### Train & bus
 - Amtrak trains serve Santa Barbara. Main station is downtown (~15–20 minutes from campus). Some Amtrak routes stop at the Goleta train station (~5-10 minutes from campus). Taxi/rideshare recommended from the station to KITP.
 - Regional transit (MTD) serves UCSB; check schedules for local routes between downtown Santa Barbara and campus - there are two express buses for transit to the downtown.
-
-### Where are we staying, and how do I get to the conference every day
-
-Unless you indicated you wished to organise your own accommodation, you will be staying in the San Joaquin Villages shared apartment complex (shared rooms or singles, 3-4 rooms per apartment). These are located at 650 Storke Rd, Goleta, CA 93117, next to the Santa Catalina dining hall, where breakfast will be provided each morning. At 8:30 and 8:45 shuttles will be provided to KITP from outside San Joaquin - you must be on one of these shuttles to get a ride; please be there at 8:30! If you miss the second shuttle (or it is full....) then you will be walking! (1.8 miles) At the end of each day, shuttles will be provided back to San Joaquin.
 
 ### What if I am traveling from overseas?
 
@@ -88,13 +107,6 @@ International attendees / US arrivals
 ### What if I have accessibility concerns or special needs?
 
 KITP and UCSB have accessible facilities. If you have accessibility requirements (mobility, dietary restrictions, interpreter, etc.), notify organizers ahead of time so accommodations can be arranged.
-
-### Dining & groceries
-
-Weekday breakfasts (for those staying in the San Joaquin villages) and lunches are provided by the workshop. We hope participants will also plan to attend the catered dinners at KITP on Tu/Th, and the beach barbecue (0.4 miles walk from KITP) on Wednesday night. For Sunday/Monday/Friday evenings, participants are at their own leisure.
-
-- Campus and surrounding areas have cafés and restaurants; options increase downtown Santa Barbara. Grocery stores (e.g., Trader Joe’s, Whole Foods) and convenience stores are nearby.
-- If you have dietary restrictions, inform organizers (for conference meals).
 
 ### Safety & emergency
 - In an emergency on campus, call UCSB Police/University Police at (+1)805-893-3446 or emergency services at 911
