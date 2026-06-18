@@ -20,6 +20,7 @@ showReadingTime = false
 ### UCSB accomodation check-in
 
 The [San Joaquin Village Apartments](https://www.map.ucsb.edu/?id=1982#!ct/60251,60252,89899,90724,98591,93878,93879,96994,97031?m/762224?s/San%20Joaquin) are located on the corner of Storke and El Colegio Roads at:
+
 650 Storke Road, Goleta, CA 93117   
 
 We will be staying in [Ramona Court](https://www.housing.ucsb.edu/housing-options/options-filter/san-joaquin-villages/sjv-emergency-map) (top right corner of the property).
@@ -28,7 +29,9 @@ We will be staying in [Ramona Court](https://www.housing.ucsb.edu/housing-optio
 
 6850 El Colegio Road, Goleta, CA 93117
 
-If you are driving, click [here](#parking-on-campus) for info on parking.
+The Santa Catalina 24 hour front desk phone number is 805-893-7202.
+
+If you are driving, attendees can park temporarily (with a valid parking permit) in a green timezone spot in Lot 59 to check in and get room keys, and then move your car to park overnight/long term: see the [section on parking](#parking-on-campus) for more info on lots and how to purchase parking passes.
 
 ### Breakfast
 
@@ -49,11 +52,15 @@ Weekday breakfasts (for those staying in the San Joaquin villages) and lunches a
 
 ### Parking on campus
 
-Driving and parking on UCSB: Campus has paid parking lots and visitor permits. Follow posted signage for visitor parking and avoid faculty/reserved spots.
+The closest parking lot to the accommodation is Lot 60. You need a permit to park. If the Lot 60 permit is purchased in the online portal (named:Summer Conference (SCH/SJV/SMV) permit) it is also valid in campus visitor lots 18 & 22.  (BUT NOT Parking 10, which is the closest to KITP). You should purchase this permit online. If you purchase the physical permit via the dispenser in Lot 60, that permit will only be valid in Lot 60. 
 
-Attendees can park temporarily (with a valid parking permit) in a green timezone spot in Lot 59 to check in and get room keys, and then move your car to park overnight/long term to nearby [Lot 60](https://www.map.ucsb.edu/?id=1982#!ct/60251,60252,89899,90724,98591,93878,93879,96994,97031?m/620959?s/lot%2060).
+Parking Portal Information: https://conferences.ucsb.edu/summer-conferences/attendee-information/guestparking
 
-A parking e-permit for Lot 60 can be purchased in advance through the [UCSB Parking ePermit Portal](https://tps-ucsb.t2hosted.com/cmn/auth_ext.aspx) (recommended) or upon arrival from the permit dispenser in the lot. The parking permit cost is $8 per day. (Attendees are responsible for their own parking fees, they are not included.)
+Permit Dispenser: https://conferences.ucsb.edu/summer-conferences/attendee-information/guestparkingdispenser
+
+
+**Attendees are responsible for their own parking fees, they are not included.**
+
 
 ## Travel-related
 
