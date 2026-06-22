@@ -13,6 +13,15 @@ showReadingTime = false
 
 **Housing**: San Joaquin Villages, 650 Storke Rd, Goleta, CA 93117
 
+## Workshop Online Resources
+
+![Schedule](/images/blog/workshop-faq/iSTRUM-agenda-short.png)
+
+Links:
+* [Public Google Drive](https://bit.ly/iSTRUM2026)
+* [Padlet Q&A and Group Project Topic Proposal Board](https://padlet.com/chrishavlin/istrum-live-q-a-di29furxso4w66nc)
+* [Join our slack](https://bit.ly/iSTRUMslack)
+
 ## Accommodation and conference shuttles
 
 ![Housing, dining hall and shuttles](/images/blog/workshop-faq/iSTRUM_housingbus.png)
@@ -52,7 +61,7 @@ Weekday breakfasts (for those staying in the San Joaquin villages) and lunches a
 
 ### Parking on campus
 
-The closest parking lot to the accommodation is Lot 60. You need a permit to park. If the Lot 60 permit is purchased in the online portal (named:Summer Conference (SCH/SJV/SMV) permit) it is also valid in campus visitor lots 18 & 22.  (BUT NOT Parking 10, which is the closest to KITP). You should purchase this permit online. If you purchase the physical permit via the dispenser in Lot 60, that permit will only be valid in Lot 60. 
+The closest parking lot to the accommodation is Lot 60. You need a permit to park. If the Lot 60 permit is purchased in the online portal (named:Summer Conference (SCH/SJV/SMV) permit) it is also valid in campus visitor lots 18 & 22.  (BUT NOT Parking 10, which is the closest to KITP). You should purchase this permit online. If you purchase the physical permit via the dispenser in Lot 60, that permit will only be valid in Lot 60.
 
 Parking Portal Information: https://conferences.ucsb.edu/summer-conferences/attendee-information/guestparking
 
