@@ -67,11 +67,6 @@ lastmod = ["lastmod", ":git", "date"]
   name = "2026 Community Workshop"
   weight = 25
 
-[[menu.main]]
-  url = "/workshop-logistics"
-  name = "Workshop FAQ"
-  weight = 26
-
 [module]
 [module.hugoVersion]
 extended = true
