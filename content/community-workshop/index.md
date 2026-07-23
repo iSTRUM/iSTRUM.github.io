@@ -1,12 +1,17 @@
 +++
 title = "iSTRUM Community Workshop - Summer 2026"
 date = "2025-11-03"
-showTableOfContents = false
+showTableOfContents = true
 +++
 
-We are excited to host the upcoming iSTRUM (inveStigating Transient Rheology of the Upper Mantle) Community Workshop to be held June 22-26, 2026 at UC Santa Barbara, hosted by the Kavli Institute of Theoretical Physics (KITP). The goal of the workshop is to bring together researchers interested in advancing our understanding of the broad spectrum of upper mantle rheology, covering timescales ranging from seismic waves (<1 s) to Glacial Isostatic Adjustment (~10^12 s) and mantle convection.
 
-## About the iSTRUM (inveStigating Transient Rheology of the Upper Mantle) Community Workshop
+The iSTRUM (inveStigating Transient Rheology of the Upper Mantle) Community Workshop was held June 22-26, 2026 at UC Santa Barbara, hosted by the Kavli Institute of Theoretical Physics (KITP). The goal of the workshop was to bring together researchers interested in advancing our understanding of the broad spectrum of upper mantle rheology, covering timescales ranging from seismic waves (<1 s) to Glacial Isostatic Adjustment (~10^12 s) and mantle convection.
+
+## Update: Meeting Resources
+
+**Did you miss the workshop? Want to revisit a talk you saw? Check out the persistent materials on [this page](/blog/istrum-2026-resources/).**
+
+## About the iSTRUM Community Workshop
 
 This 5-day, NSF-funded event will bring together ~80 researchers from the fields of Rock Physics, Seismology, Geodesy, and Geodynamics with the goal to advance our understanding of the broad spectrum of upper mantle rheology, covering timescales ranging from seismic waves (~1 s) to Glacial Isostatic Adjustment (~10^12 s). The workshop will foster interdisciplinary collaborations among a diverse array of researchers motivated by the goal of integrating seismic, geodetic, and laboratory observations, within a self-consistent framework that links geodynamics to microphysics.
 
